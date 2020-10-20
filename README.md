@@ -1,6 +1,6 @@
 # Contact App
 
-Esta aplicação foi consiste em uma simples agenda de contatos.
+Esta aplicação consiste em uma simples agenda de contatos.
 
 Pensando em um possível crescimento da aplicação, tudo foi construído e pensado no pattern MVC com Repository para o acesso a dados e MobX para a gestão de estado.
 
